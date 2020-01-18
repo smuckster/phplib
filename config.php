@@ -1,11 +1,11 @@
+<?php
+
 /** A generic configuration file for a project that 
  * requires a connection with a database. This configuration
  * assumes the use of PDO.
  *
  * For documentation about using PDO: https://phpdelusions.net/pdo
  */
-
-<?php
 
 // Set database credentials
 $dbhost     = 'XXXXXXXXXXXXXXXXXXXXX';
